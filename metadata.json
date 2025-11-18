@@ -1,0 +1,8 @@
+{
+  "name": "MathSolver AI",
+  "description": "An advanced mathematical assistant capable of solving problems from Algebra to Calculus with step-by-step explanations in Portuguese. Supports text and image inputs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
